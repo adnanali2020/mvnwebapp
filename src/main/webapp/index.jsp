@@ -14,6 +14,6 @@
 <span style="background-color:#00FF00">Green Text</span>
 <span style="background-color:yellow">Yellow Text</span>
 <span style="background-color:#FF00FF">Pink Text</span>
-<p class="detail">My Name is: <span class="name">Syed Adnan ALi</span> </p>
+<p class="detail">My Name is: <span class="name">Syed Adnan Ali</span> </p>
 </body>
 </html>
