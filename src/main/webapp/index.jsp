@@ -15,5 +15,6 @@
 <span style="background-color:yellow">Yellow Text</span>
 <span style="background-color:#FF00FF">Pink Text</span>
 <p class="detail">My Name is: <span class="name">Syed Adnan Ali</span> </p>
+<p class="detail">My Wife's Name is: <span class="name">Raukhshee Ali</span> </p>
 </body>
 </html>
